@@ -1,0 +1,29 @@
+.wrapper {
+    background-color: #b0aac0;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    position: fixed;
+    line-height: 700px;
+    
+}
+
+.land-btn{
+    border-radius: 50%;
+    font-family: 'Bebas Neue', cursive;
+    vertical-align: middle;
+    background-color: #c2d4dd;
+    width: 200px;
+    text-align: center;
+    transition: all .3s ease-in-out;
+}
+
+.land-btn:hover{
+    border-radius: 0;
+    cursor: pointer;
+    
+}
+
+
+    
+    
